@@ -9,3 +9,4 @@ out
 *.prof
 .nfs*
 _cache_*
+.idea
